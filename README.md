@@ -1,2 +1,11 @@
-# Project-1
-Monte Carlo simulations analysis is an important tool for developing, quantifying and visualizing strategy around investment decisions on everything from retirement planning to algo trading development to infrastructure spending. Our group aims to create a monte carlo driven solution, coded in python, to answer questions and provide insight around portfolio selection, performance reporting and risk analysis.
+# Active vs Passive Funds
+In this project, we try proposing an optimal equity portfolio which give the best risk-return tradeoff from allocating between passive fund and active fund. First, we look at risk/return characteristic of passive and active funds in the past to see which type of portfolio perform best. Then we construct portfolios based on conclusion we have from historical data analysis. We project return of the portfolio and evaluate risk/return characteristic. 
+Active funds that we analyze in this project will be based on factor investing idea. These funds’ allocation will deviate from market index and based on key underlying factors that each type of fund designed to beat market return. According to MSCI, there are 7 groups of active funds.  
+1.	Value: This fund will try to include stocks with cheap valuation into portfolio to capture investment opportunity from price traded below fundamental value. We pick IVE (iShares S&P 500 Value ETF) as represent fund for this group.
+2.	Small Cap:  This fund will try to generate alpha by picking smaller firms (by market capitalization) relative to their larger counterparts. We pick SIZE (iShares Edge MSCI USA Size Factor ETF) as represent fund for this group.
+3.	Momentum: This fund will try to generate alpha by selecting stocks with strong past performance. We pick MTUM (iShares Edge MSCI USA Momentum Factor ETF) as represent fund for this group.
+4.	Low volatility: This type of fund will try to capture excess returns to stocks with lower than average volatility, beta, and/or idiosyncratic risk. We pick USMV (iShares Edge MSCI Min Vol USA ETF) as represent fund for this group.
+5.	High Dividend: This type of fund will try to excess returns to stocks that have higher-than-average dividend yields. We pick FDL (First Trust Morningstar Dividend Leaders) as represent fund for this group.
+6.	Quality: This fund will try to generate alpha by including stocks that are characterized by low debt, stable earnings growth, and other “quality” metrics. We pick QUAL (iShares Edge MSCI USA Quality Factor ETF) as represent fund for this group.
+7.	Growth: Alpha from this kind of fund would come from adding high growth stocks into portfolio. We pick IVW (iShares S&P 500 Growth ETF) as represent fund for this group.
+

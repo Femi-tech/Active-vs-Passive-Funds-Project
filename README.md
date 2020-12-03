@@ -2,7 +2,7 @@
 
 ![MSCI](factor-investing.PNG)
 ### Contributors: 
-Phara Dorisca (https://github.com/pdorisca), Khulika Rojanakanoksak (https://github.com/Khulikaroj), Femi Aina (https://github.com/Femi-tech) ,Ogo Nwanyanwu (https://github.com/Ogo1024)
+ Femi Aina (https://github.com/Femi-tech), Phara Dorisca (https://github.com/pdorisca), Khulika Rojanakanoksak (https://github.com/Khulikaroj), Ogo Nwanyanwu (https://github.com/Ogo1024)
 
 In this project, we try proposing an optimal equity portfolio which give the best risk-return tradeoff from allocating between passive fund and active fund. First, we look at risk/return characteristic of passive and active funds in the past to see which type of portfolio perform best. Then we construct portfolios based on conclusion we have from historical data analysis. We project return of the portfolio and evaluate risk/return characteristic. 
 Active funds that we analyze in this project will be based on factor investing idea. These funds’ allocation will deviate from market index and based on key underlying factors that each type of fund designed to beat market return. According to MSCI, there are 7 groups of active funds.  
